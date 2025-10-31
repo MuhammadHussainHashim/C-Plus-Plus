@@ -215,7 +215,7 @@ Pending|
 | Title/link| Description | Reading Status |
 |---|---|---|
 |[**✅ 1-Interpretable Machine Learning**](https://christophm.github.io/interpretable-ml-book/)|by Christoph Molnar A Guide for Making Black Box Models Explainable| InProgress|
-
+|[**✅ 2-Books**](https://github.com/Rishabh-creator601/Books)| A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.| InProgress|
 ### 🔹Python Projects**
 | Title | Description|Code|Status|Completed On|Author|
 |---|---|---|---|---|---|
