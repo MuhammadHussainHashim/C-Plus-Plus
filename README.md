@@ -201,7 +201,7 @@ This Chapter introduces students to Streamlit, a powerful open-source app framew
 </details>
 
 <details> 
-<summary> <h2>📕 Resources - Other Best Free Resources to Learn Python </h2> </summary>
+<summary> <h2>📕 Resources - Other Best Free Resources to C++ </h2> </summary>
 
 ## 👁️ Chapter1: - **Free Courses**
 | Title/link| Description | Reading Status |
@@ -215,7 +215,7 @@ Pending|
 | Title/link| Description | Reading Status |
 |---|---|---|
 |[**✅ 1-Interpretable Machine Learning**](https://christophm.github.io/interpretable-ml-book/)|by Christoph Molnar A Guide for Making Black Box Models Explainable| InProgress|
-
+|[**✅ 2-Books**](https://github.com/Rishabh-creator601/Books)| A curated collection of books and references for Computer Vision, Machine Learning, Deep Learning, NLP, Python, and more.| InProgress|
 ### 🔹Python Projects**
 | Title | Description|Code|Status|Completed On|Author|
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@ Pending|
 ## 👁️ Chapter5: - **Github Repository**
 | Title/link| Description | Status |Feedback|
 |---|---|---|---|
-|[**✅ 1- Best-of Machine Learning with Python**](https://github.com/ml-tooling/best-of-ml-python?tab=readme-ov-file#data-visualization)|This curated list contains 920 awesome open-source projects with a total of 4.9M stars grouped into 34 categorie| Pending|⭐️⭐️⭐️|
+|[**1- Project Based Learning**](https://github.com/practical-tutorials/project-based-learning?tab=readme-ov-file)|This curated list contains 920 awesome open-source projects with a total of 4.9M stars grouped into 34 categorie| Pending|⭐️⭐️⭐️|
 
 ### **Module 01: Basics**
 ================================================================
@@ -347,8 +347,8 @@ We would love your help in making this repository even better! If you know of an
 
 Thanks goes to these Wonderful People. Contributions of any kind are welcome!🚀
 
-<a href="https://github.com/hussain0048/Python-Notes/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hussain0048/Python-Notes" />
+<a href="https://github.com/dr-mushtaq/C-Plus-Plus/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dr-mushtaq/C-Plus-Plus" />
 </a>
 
     
